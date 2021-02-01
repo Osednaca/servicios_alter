@@ -1,0 +1,40 @@
+[16-Mar-2018 17:14:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'alterclub.com' is not allowed to connect to this MySQL server in /var/www/html/serviciosqa/facturas/include/conexion.php on line 3
+[16-Mar-2018 17:14:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'alterclub.com' is not allowed to connect to this MySQL server in /var/www/html/serviciosqa/facturas/include/conexion.php on line 3
+[16-Mar-2018 23:14:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'alterclub.com' is not allowed to connect to this MySQL server in /var/www/html/servicios/facturas/include/conexion.php on line 3
+[16-Mar-2018 18:14:09 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/servicios/facturas/verfactura.php on line 7
+[16-Mar-2018 18:14:09 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /var/www/html/servicios/facturas/verfactura.php:8
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/servicios/facturas/verfactura.php on line 8
+[21-Mar-2018 19:50:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'alterclub.com' is not allowed to connect to this MySQL server in /var/www/html/serviciosqa/facturas/include/conexion.php on line 3
+[21-Mar-2018 14:50:26 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/serviciosqa/facturas/verfactura.php on line 7
+[21-Mar-2018 14:50:26 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /var/www/html/serviciosqa/facturas/verfactura.php:8
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/serviciosqa/facturas/verfactura.php on line 8
+[21-Mar-2018 19:55:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'alterclub.com' is not allowed to connect to this MySQL server in /var/www/html/serviciosqa/facturas/include/conexion.php on line 3
+[21-Mar-2018 14:55:42 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/serviciosqa/facturas/verfactura.php on line 7
+[21-Mar-2018 14:55:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /var/www/html/serviciosqa/facturas/verfactura.php:8
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/serviciosqa/facturas/verfactura.php on line 8
+[21-Mar-2018 19:58:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1130): Host 'alterclub.com' is not allowed to connect to this MySQL server in /var/www/html/serviciosqa/facturas/include/conexion.php on line 3
+[21-Mar-2018 14:58:33 America/Bogota] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/serviciosqa/facturas/verfactura.php on line 7
+[21-Mar-2018 14:58:33 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /var/www/html/serviciosqa/facturas/verfactura.php:8
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/serviciosqa/facturas/verfactura.php on line 8
+[11-May-2018 23:40:55 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[05-Jun-2018 15:56:46 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[05-Jun-2018 15:57:45 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/serviciosqa/facturas/verfactura.php on line 5
+[07-Jun-2018 12:21:29 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[07-Jun-2018 12:23:34 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[12-Jun-2018 07:40:14 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[05-Jul-2018 03:31:26 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[07-Aug-2018 01:56:20 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/serviciosqa/facturas/verfactura.php on line 5
+[16-Aug-2018 17:27:46 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/serviciosqa/facturas/verfactura.php on line 5
+[24-Aug-2018 20:48:01 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[24-Aug-2018 20:48:58 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/serviciosqa/facturas/verfactura.php on line 5
+[23-Sep-2018 22:09:28 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/servicios/facturas/verfactura.php on line 5
+[23-Sep-2018 22:10:16 America/Bogota] PHP Notice:  Undefined index: idservicio in /var/www/html/serviciosqa/facturas/verfactura.php on line 5
+[28-Sep-2018 11:17:26 America/New_York] PHP Parse error:  syntax error, unexpected '"' in /var/www/html/servicios/facturas/verfactura.php on line 69

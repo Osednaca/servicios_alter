@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.tutorialspoint.onlineviewer" version = "1.0">
+   
+   <name>Tutorials Point</name>
+   
+   <description>
+      Tutorials Point Online Viewer
+   </description>
+   
+   <author href = "http://tutorialspoint.com" email = "contact@tutorialspoint.com">
+      Tutorials Point
+   </author>
+   
+   <preference name = "permissions" value = "none"/>
+   
+   
+</widget>
